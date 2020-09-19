@@ -19,7 +19,7 @@ Você pode fazer o Download do projeto através do seguinte comando:
 ```git clone https://github.com/OsmarVitor/shopping-list-api.git```
 
 # Documentação da API
-![Abaixo está a representação da documentação das APIs com o SWAGGER]()
+![Abaixo está a representação da documentação das APIs com o SWAGGER](https://github.com/OsmarVitor/shopping-list-api/blob/master/src/main/resources/swagger/swagger.png)
 
 # License
-[MIT]()
+[MIT](https://github.com/OsmarVitor/shopping-list-api/blob/master/LICENSE)
